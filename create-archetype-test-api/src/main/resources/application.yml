@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: create-archetype-test
+server:
+  port: 8081
+
